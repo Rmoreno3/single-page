@@ -2,7 +2,7 @@ const Header = () => {
   const view = `
     <div class="Header-main">
       <div class="Header-logo">
-        <a href="/">
+        <a href="/single-page/">
           100tifico.co
         </a>
       </div>
